@@ -6,12 +6,12 @@
 
 ## Install
 
-Run `pip install pelican-next-meetup`, then add `pelican-next-meetup` to `pelicanconf.py` configuration's`PLUGINS` list:
+Run `pip install pelican-next-meetup`, then add `next_meetup` to `pelicanconf.py` configuration's`PLUGINS` list:
 
 ``` python
 PLUGINS = [
     # all other plugins
-    'pelican-next-meetup',
+    'next_meetup',
 ]
 ```
 
