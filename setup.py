@@ -10,7 +10,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='pelican-next-meetup',
-    version='0.1.0',
+    version='0.1.1',
     description='Pelican plugin to get info on your next meetup.',
     long_description=long_description,
     url='https://github.com/SangSatori/pelican_next_meetup',
